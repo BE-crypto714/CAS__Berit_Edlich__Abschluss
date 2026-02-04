@@ -37,8 +37,7 @@ einem klaren Blick auf die gesamtstaatliche Verantwortung. Sie ist eine
 feste Größe, die die Strukturen bewahrt – und dabei stets auf den 
 langfristigen Erfolg achtet.
 
-![Beate](./img/image_beate.png)
-<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
+![Beate](./img/image_beate.png)<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 350px;" -->
 
 ---
 
@@ -53,8 +52,7 @@ auf konkreten, umsetzbaren Lösungen. Er ist ein Mann der Aktion, der
 stets im Zeitdruck agiert, aber stets präsent bleibt, wenn es um die 
 Belange seiner Region geht.
 
-![Manfred](./img/image_manfred.png)
-<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
+![Manfred](./img/image_manfred.png)<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 350px;" -->
 
 ---
 
