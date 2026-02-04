@@ -52,7 +52,7 @@ auf konkreten, umsetzbaren Lösungen. Er ist ein Mann der Aktion, der
 stets im Zeitdruck agiert, aber stets präsent bleibt, wenn es um die 
 Belange seiner Region geht.
 
-![](.img/image_manfred.png)
+![](img/image_manfred.png)
 
 ---
 
@@ -67,7 +67,7 @@ hakt, wo es besser geht. Seine Stärke liegt in der Analyse, der
 Strukturierung und der präzisen Umsetzung. Er ist derjenige, der die 
 feinen Unterschiede sieht, bevor andere sie bemerken.
 
-![](.img/image_bernhardt.png)
+![](./img/image_bernhardt.png)
 
 ---
 
