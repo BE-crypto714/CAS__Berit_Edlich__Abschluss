@@ -37,7 +37,7 @@ einem klaren Blick auf die gesamtstaatliche Verantwortung. Sie ist eine
 feste Größe, die die Strukturen bewahrt – und dabei stets auf den 
 langfristigen Erfolg achtet.
 
-![Beate](./img/image_beate.png)<!-- style="width: 300px; height: auto; display: block; margin: 0 auto; float: left;" -->
+![Beate](./img/image_beate.png)<!-- style="width: 300px; height: auto; display: block; float: left;" -->
 
 ---
 
