@@ -17,63 +17,179 @@ import: https://raw.githubusercontent.com/LiaTemplates/Chat-Simulation/main/READ
 
 # Abschluss
 
-## Einstieg
+## Im Chat sind
 
-``` javascript    @CHAT
-[
-  {
-    name: 'Lena',
-    message:
-      'Hey 👋 habt ihr schon mit den Mathe-Hausaufgaben angefangen? Thema **quadratische Funktionen**?',
-  },
-  {
-      name: 'Marco',
-      message: "Hier ist mein Beitrag. ![alt-text](https://europainfo.at/wp-content/uploads/2018/11/flag_yellow_high-1024x683.jpg)"
-  }
-]
-```
+
+Hier findest du eine kurze Übersicht über die Teilnehmenden an der 
+Diskussion. Jede Person bringt ihre eigene Perspektive und Arbeitsweise 
+mit – gemeinsam schaffen wir einen strukturierten, aber offenen Austausch.
+
+---
+
+Beate
+===
+
+*Referentin, Bundesministerium, Bonn*
+
+Beate steht für eine nationale Perspektive und setzt auf traditionelle 
+Hierarchien. Ihre Arbeit ist geprägt von Stabilität, Verlässlichkeit und 
+einem klaren Blick auf die gesamtstaatliche Verantwortung. Sie ist eine 
+feste Größe, die die Strukturen bewahrt – und dabei stets auf den 
+langfristigen Erfolg achtet.
+
+![](.img/image_beate.png)
+
+---
+
+Manfred
+===
+
+*Referatsleiter, Mecklenburg-Vorpommern*
+
+Manfred vertritt die Interessen seines Bundeslandes mit großer Hingabe – 
+und hat dabei oft wenig Zeit für die Gruppendiskussion. Sein Fokus liegt 
+auf konkreten, umsetzbaren Lösungen. Er ist ein Mann der Aktion, der 
+stets im Zeitdruck agiert, aber stets präsent bleibt, wenn es um die 
+Belange seiner Region geht.
+
+![](.img/image_manfred.png)
+
+---
+
+Bernhardt
+===
+
+*Referent, Berlin/Brandenburg*
+
+Ein Pragmatiker mit scharfem Blick für Details. Bernhardt geht nicht 
+über den Tellerrand, sondern schaut genau hin – wo es klemmt, wo es 
+hakt, wo es besser geht. Seine Stärke liegt in der Analyse, der 
+Strukturierung und der präzisen Umsetzung. Er ist derjenige, der die 
+feinen Unterschiede sieht, bevor andere sie bemerken.
+
+![](.img/image_bernhardt.png)
+
+---
+
+Sabine
+===
+
+*Sacharbeiterin, Baden-Württemberg*
+
+Sabine arbeitet nah an den operativen Herausforderungen – und das spürt 
+man. Sie ist jung, flippig, aber äußerst kompetent. Ihre Energie ist 
+ansteckend, ihr Blick auf die Praxis ist direkt und unkompliziert. Sie 
+bringt frischen Wind in die Diskussion und hält uns am Ball, wenn es um 
+die Umsetzung geht.
+
+![](.img/image_sabine.png)
+
+---
+
+Rainer
+===
+
+*Referent, Thüringen*
+
+Rainer strebt nach klaren Strukturen und nachhaltigen Lösungen. Er ist 
+derjenige, der fragt: „Wie funktioniert das? Wie können wir es 
+systematisch aufbauen?“ Sein Ansatz ist methodisch, ruhig und überlegt. 
+Er schafft Ordnung in Komplexität – und sorgt dafür, dass wir nicht nur 
+reden, sondern auch etwas bewegen.
+
+![](.img/image_rainer.png)
+
+---
+
+Melanie
+===
+
+*Moderatorin*
+
+Melanie ist die neutrale Instanz, die den Prozess in Bewegung hält. Sie 
+leitet die Diskussion mit Gelassenheit, Offenheit und strategischem 
+Blick. Ihre Aufgabe ist es, alle Stimmen zu hören, Spannungen zu 
+entschärfen und den Fokus auf das Wesentliche zu lenken. Ohne sie wäre 
+die Gruppe leicht ins Chaos geraten – mit ihr bleibt der Weg klar.
+
+![](.img/image_melanie.png)
+
+---
+
+
+> Info: Alle Personen mit ihren Bildern wurden anonymisiert und ohne Orts- oder Namensangaben erstellt, um die Privatsphäre zu schützen. Die Darstellungen sind stilistisch vereinfacht, aber authentisch im Ausdruck.
+
+
+
+* **Beate Referentin** aus dem Bundesministerium in Bonn, mit einem starken Fokus auf die nationale Perspektive und traditionellen Hierarchie vor Augen.
+
+* **Manfred Referatsleiter** aus Mecklenburg-Vorpommern, der die Interessen seines Landes vertritt und sehr wenig Zeit hat sich der Gruppendiskussion zu widmen.
+
+* **Bernhardt Referent** aus Berlin/Brandenburg, ein Pragmatiker mit scharfem Blick für Details.
+
+* **Sabine Sacharbeiterin** aus Baden-Württemberg, die nah an den operativen Herausforderungen arbeitet.
+
+* **Rainer Referent** aus Thüringen, der klare Strukturen und Lösungen anstrebt.
+
+* **Melanie Moderatorin**, die als neutrale Instanz die Diskussion leitet und versucht den Prozess in Bewegung nach vorn zu halten.
+
 
 ## '@Chat 1'
 
-
 ``` javascript    @CHAT
 [
   {
-    name: 'Lena',
-    message:
-      'Hey 👋 habt ihr schon mit den Mathe-Hausaufgaben angefangen? Thema **quadratische Funktionen**?',
+    name: 'Melanie',
+    message: 
+        'Guten Morgen, alle zusammen! 😊 Ich hoffe, Sie hatten einen guten Start in den Tag. Ich schlage vor, wir starten mit der Problemanalyse. Unser Hauptproblem: Es gibt zu wenig laufende CE-Projekte in Deutschland. Wir zahlen mehr ein, als wir zurückbekommen. Können wir uns darauf als Ausgangspunkt einigen? 🤔'
   },
   {
-      name: 'Marco',
-      message: "Hier ist mein Beitrag. !?[Best actor](https://www.youtube.com/watch?v=nvp_cvlHHfY)"
-  }
+    name: 'Beate',
+    message: 
+        'Ganz ehrlich, ich finde, wir sollten uns zuerst auf die Kommunen konzentrieren. 🏢 Die Kommunen sind doch die wichtigsten Akteure. Ohne sie kommen wir nicht weiter. Vielleicht sollten wir mehr Druck ausüben.'
+  },
+  {
+    name: 'Manfred',
+    message:
+        'Moin… Ich hab nicht viel Zeit heute. ⏳ Können wir bitte schneller vorankommen? Ich sehe das Problem eher bei den finanziellen Barrieren. Kommunen in meinem Land können sich die Eigenmittel einfach nicht leisten. Da bringt Druck nichts. 😒'
+  },
+  {
+    name:'Melanie',
+    message: 
+        'Danke, Manfred. Was denken die anderen dazu? Beate, was sagst du zu den finanziellen Barrieren?'
+  },
+  {
+    name: 'Beate',
+    message:
+        'Natürlich sind die finanziellen Barrieren ein Thema. Aber ohne Druck auf die Kommunen wird sich nichts ändern.'
+  },
+  {
+    name: 'Bernhardt',
+    message:
+        'Na ja, Manfred, wenn’s so einfach wäre, könnten wir das Ganze mit einer neuen Förderrichtlinie lösen. Das Hauptproblem ist doch, dass die Verfahren zu komplex sind. Niemand versteht das Programm auf Anhieb. 🤷‍♂️'
+  },
+    {
+    name: 'Sabine',
+    message:
+        'Ganz genau! Die Anträge sind viel zu aufwendig. 📝 Ich arbeite direkt mit den Kommunen, und die sagen mir immer wieder: "Warum sollen wir uns mit CE rumschlagen, wenn es einfachere Programme gibt?"'
+  },
+  {
+    name: 'Melanie',
+    message:
+        'Interessanter Punkt, Sabine. Was denkt ihr anderen? Sind die Verfahren wirklich das Hauptproblem?'
+  },
+  {
+    name: 'Rainer',
+    message:
+        'Ich finde, wir müssen endlich mal die Struktur und die Prozesse durchdenken. 🙄 Diese ewige Diskussion bringt uns nicht weiter. Lasst uns systematisch vorgehen: Problem – Ursache – Ziel – Maßnahme.'
+  },
+  {
+    name: 'Melanie',
+    message:
+        'Danke, Rainer. Struktur klingt gut. Aber bevor wir weitermachen: Sind wir uns einig, dass die Verfahren zu komplex sind? Oder gibt es andere Meinungen?'
+  },
 ]
 ```
 
 
-## '@Chat 2'
 
-ebenso
-
-
-## '@Chat 3'
-
-nun langsam zum Schluss
-
-``` javascript    @CHAT
-[
-  {
-    name: 'Lena',
-    message:
-      'Hey 👋 habt ihr schon mit den Mathe-Hausaufgaben angefangen? Thema **quadratische Funktionen**?',
-  },
-  {
-      name: 'Marco',
-      message: "Hier ist mein Beitrag. ![alt-text](https://europainfo.at/wp-content/uploads/2018/11/flag_yellow_high-1024x683.jpg)"
-  }
-]
-```
-
-## Abschluss
-
-## Abschluss
