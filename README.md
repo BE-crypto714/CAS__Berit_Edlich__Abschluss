@@ -37,7 +37,7 @@ einem klaren Blick auf die gesamtstaatliche Verantwortung. Sie ist eine
 feste Größe, die die Strukturen bewahrt – und dabei stets auf den 
 langfristigen Erfolg achtet.
 
-![Beate](./img/image_beate.png)<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 350px;" -->
+![Beate](./img/image_beate.png)<!-- style="width: 300px; height: auto; display: block; margin: 0 auto; float: left;" -->
 
 ---
 
@@ -52,7 +52,7 @@ auf konkreten, umsetzbaren Lösungen. Er ist ein Mann der Aktion, der
 stets im Zeitdruck agiert, aber stets präsent bleibt, wenn es um die 
 Belange seiner Region geht.
 
-![Manfred](./img/image_manfred.png)<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 150px;" -->
+![Manfred](./img/image_manfred.png)<!-- style="width: 300px; height: auto; display: block; margin: 0 auto; float: left;" -->
 
 ---
 
@@ -67,8 +67,7 @@ hakt, wo es besser geht. Seine Stärke liegt in der Analyse, der
 Strukturierung und der präzisen Umsetzung. Er ist derjenige, der die 
 feinen Unterschiede sieht, bevor andere sie bemerken.
 
-![Benrhardt](./img/image_bernhardt.png)
-<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
+![Benrhardt](./img/image_bernhardt.png)<!-- style="width: 300px; height: auto; display: block; margin: 0 auto; float: left;" -->
 
 ---
 
@@ -83,8 +82,7 @@ ansteckend, ihr Blick auf die Praxis ist direkt und unkompliziert. Sie
 bringt frischen Wind in die Diskussion und hält uns am Ball, wenn es um 
 die Umsetzung geht.
 
-![Sabine](./img/image_sabine.png)
-<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
+![Sabine](./img/image_sabine.png)<!-- style="width: 300px; height: auto; display: block; margin: 0 auto; float: left;" -->
 
 ---
 
@@ -99,8 +97,7 @@ systematisch aufbauen?“ Sein Ansatz ist methodisch, ruhig und überlegt.
 Er schafft Ordnung in Komplexität – und sorgt dafür, dass wir nicht nur 
 reden, sondern auch etwas bewegen.
 
-![Rainer](./img/image_rainer.png)
-<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
+![Rainer](./img/image_rainer.png)<!-- style="width: 300px; height: auto; display: block; margin: 0 auto; float: left;" -->
 
 ---
 
@@ -115,8 +112,7 @@ Blick. Ihre Aufgabe ist es, alle Stimmen zu hören, Spannungen zu
 entschärfen und den Fokus auf das Wesentliche zu lenken. Ohne sie wäre 
 die Gruppe leicht ins Chaos geraten – mit ihr bleibt der Weg klar.
 
-![Melanie](./img/image_melanie.png)
-<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
+![Melanie](./img/image_melanie.png)<!-- style="width: 300px; height: auto; display: block; margin: 0 auto; float: left;" -->
 
 ---
 
