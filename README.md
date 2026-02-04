@@ -38,6 +38,7 @@ feste Größe, die die Strukturen bewahrt – und dabei stets auf den
 langfristigen Erfolg achtet.
 
 ![Beate](./img/image_beate.png)
+<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
 
 ---
 
@@ -53,6 +54,7 @@ stets im Zeitdruck agiert, aber stets präsent bleibt, wenn es um die
 Belange seiner Region geht.
 
 ![Manfred](./img/image_manfred.png)
+<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
 
 ---
 
@@ -68,6 +70,7 @@ Strukturierung und der präzisen Umsetzung. Er ist derjenige, der die
 feinen Unterschiede sieht, bevor andere sie bemerken.
 
 ![Benrhardt](./img/image_bernhardt.png)
+<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
 
 ---
 
@@ -83,6 +86,7 @@ bringt frischen Wind in die Diskussion und hält uns am Ball, wenn es um
 die Umsetzung geht.
 
 ![Sabine](./img/image_sabine.png)
+<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
 
 ---
 
@@ -98,6 +102,7 @@ Er schafft Ordnung in Komplexität – und sorgt dafür, dass wir nicht nur
 reden, sondern auch etwas bewegen.
 
 ![Rainer](./img/image_rainer.png)
+<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
 
 ---
 
@@ -113,25 +118,12 @@ entschärfen und den Fokus auf das Wesentliche zu lenken. Ohne sie wäre
 die Gruppe leicht ins Chaos geraten – mit ihr bleibt der Weg klar.
 
 ![Melanie](./img/image_melanie.png)
+<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 450px;" -->
 
 ---
 
 
 > Info: Alle Personen mit ihren Bildern wurden anonymisiert und ohne Orts- oder Namensangaben erstellt, um die Privatsphäre zu schützen. Die Darstellungen sind stilistisch vereinfacht, aber authentisch im Ausdruck.
-
-
-
-* **Beate Referentin** aus dem Bundesministerium in Bonn, mit einem starken Fokus auf die nationale Perspektive und traditionellen Hierarchie vor Augen.
-
-* **Manfred Referatsleiter** aus Mecklenburg-Vorpommern, der die Interessen seines Landes vertritt und sehr wenig Zeit hat sich der Gruppendiskussion zu widmen.
-
-* **Bernhardt Referent** aus Berlin/Brandenburg, ein Pragmatiker mit scharfem Blick für Details.
-
-* **Sabine Sacharbeiterin** aus Baden-Württemberg, die nah an den operativen Herausforderungen arbeitet.
-
-* **Rainer Referent** aus Thüringen, der klare Strukturen und Lösungen anstrebt.
-
-* **Melanie Moderatorin**, die als neutrale Instanz die Diskussion leitet und versucht den Prozess in Bewegung nach vorn zu halten.
 
 
 ## '@Chat 1'
