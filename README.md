@@ -17,7 +17,7 @@ import: https://raw.githubusercontent.com/LiaTemplates/Chat-Simulation/main/READ
 
 # Abschluss
 
-## Im Chat sind
+## Im Chat sind ...
 
 
 Hier findest du eine kurze Übersicht über die Teilnehmenden an der 
@@ -37,7 +37,7 @@ einem klaren Blick auf die gesamtstaatliche Verantwortung. Sie ist eine
 feste Größe, die die Strukturen bewahrt – und dabei stets auf den 
 langfristigen Erfolg achtet.
 
-![](.img/image_beate.png)
+![Beate](./img/image_beate.png)
 
 ---
 
@@ -52,7 +52,7 @@ auf konkreten, umsetzbaren Lösungen. Er ist ein Mann der Aktion, der
 stets im Zeitdruck agiert, aber stets präsent bleibt, wenn es um die 
 Belange seiner Region geht.
 
-![](img/image_manfred.png)
+![Manfred](./img/image_manfred.png)
 
 ---
 
@@ -67,7 +67,7 @@ hakt, wo es besser geht. Seine Stärke liegt in der Analyse, der
 Strukturierung und der präzisen Umsetzung. Er ist derjenige, der die 
 feinen Unterschiede sieht, bevor andere sie bemerken.
 
-![](./img/image_bernhardt.png)
+![Benrhardt](./img/image_bernhardt.png)
 
 ---
 
@@ -82,7 +82,7 @@ ansteckend, ihr Blick auf die Praxis ist direkt und unkompliziert. Sie
 bringt frischen Wind in die Diskussion und hält uns am Ball, wenn es um 
 die Umsetzung geht.
 
-![](.img/image_sabine.png)
+![Sabine](./img/image_sabine.png)
 
 ---
 
@@ -97,7 +97,7 @@ systematisch aufbauen?“ Sein Ansatz ist methodisch, ruhig und überlegt.
 Er schafft Ordnung in Komplexität – und sorgt dafür, dass wir nicht nur 
 reden, sondern auch etwas bewegen.
 
-![](.img/image_rainer.png)
+![Rainer](./img/image_rainer.png)
 
 ---
 
@@ -112,7 +112,7 @@ Blick. Ihre Aufgabe ist es, alle Stimmen zu hören, Spannungen zu
 entschärfen und den Fokus auf das Wesentliche zu lenken. Ohne sie wäre 
 die Gruppe leicht ins Chaos geraten – mit ihr bleibt der Weg klar.
 
-![](.img/image_melanie.png)
+![Melanie](./img/image_melanie.png)
 
 ---
 
