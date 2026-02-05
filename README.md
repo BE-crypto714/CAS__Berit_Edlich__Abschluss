@@ -27,19 +27,18 @@ Der Weg dorthin war und ist alles andere als geradlinig.
 Jeder Schritt erforderte Geduld, Flexibilität und die Bereitschaft, auch mal die Richtung zu ändern.
 Besonders spannend war, wie sich die Dynamik in der Gruppe entwickelte: Jeder Einzelne musste sich in seiner Organisation rechtfertigen, Entscheidungen erklären und gleichzeitig offen für neue Ansätze sein. Eine wahre Herausforderung! Was habe ich aus dieser Reise gelernt? Drei wesentliche Erkenntnisse haben sich dabei herauskristallisiert:
 
-    Der Weg ist selten geradlinig. Es fühlte sich oft an wie ein mäandrierender Fluss: voller Kurven, Hindernisse und unvorhersehbarer Strömungen. Widerstände gehören dazu, und sie machen den Prozess zwar schwieriger, aber auch lehrreicher.
+Der Weg ist selten geradlinig. Es fühlte sich oft an wie ein mäandrierender Fluss: voller Kurven, Hindernisse und unvorhersehbarer Strömungen. Widerstände gehören dazu, und sie machen den Prozess zwar schwieriger, aber auch lehrreicher.
 
-    Geduld ist der Schlüssel. Manchmal muss man extra Runden laufen und sich Zeit nehmen, um überhaupt das Problem hinter dem Problem zu erkennen. Es ist nicht immer sofort klar, worauf man hinarbeitet – und genau das ist Teil des Prozesses.
+Geduld ist der Schlüssel. Manchmal muss man extra Runden laufen und sich Zeit nehmen, um überhaupt das Problem hinter dem Problem zu erkennen. Es ist nicht immer sofort klar, worauf man hinarbeitet – und genau das ist Teil des Prozesses.
 
-    Ein vermeintlich offensichtliches Problem ist nicht immer das Richtige. Oft stellte sich heraus, dass die erste Annahme in die falsche Richtung führte. Erst durch präzise Diskussionen und Analysen konnte das wahre Problem identifiziert werden.
-
-
-## Im Chat sind ...
+Ein vermeintlich offensichtliches Problem ist nicht immer das Richtige. Oft stellte sich heraus, dass die erste Annahme in die falsche Richtung führte. Erst durch präzise Diskussionen und Analysen konnte das wahre Problem identifiziert werden.
 
 
-Hier findet ihr eine kurze Übersicht über die Teilnehmenden an der 
-Diskussion. Jede Person bringt ihre eigene Perspektive und Arbeitsweise 
-mit.
+
+## Die Diskussion – Ein Chat als Spiegel des Prozesses
+
+
+Um die Dynamik unserer Zusammenarbeit zu verdeutlichen, habe ich eine typische Sequenz der Diskussion in Form eines Chats nachgestellt. Hier diskutieren die fünf beteiligten Personen über die Problem- und Ursachenfindung. Jede Figur bringt dabei ihre eigenen Perspektiven und Herausforderungen ein:
 
 ---
 
