@@ -25,8 +25,8 @@ Auf diesem Weg befinden wir uns nach wie vor. Ein Meilenstein ist absolviert. Wi
 
 Der Weg dorthin war alles andere als geradlinig.
 Jeder Schritt erforderte Geduld, Flexibilität und die Bereitschaft, auch mal die Richtung zu ändern.
-Besonders spannend war, wie sich die Dynamik in der Gruppe entwickelte: Jeder Einzelne musste sich in seiner Organisation rechtfertigen, Entscheidungen erklären und gleichzeitig offen für neue Ansätze sein. Eine wahre Herausforderung! Was habe ich aus dieser Reise gelernt? Eine wesentliche Erkenntnisse hat sich dabei herauskristallisiert:
-
+Besonders spannend war, wie sich die Dynamik in der Gruppe entwickelte: Jeder Einzelne musste sich in seiner Organisation rechtfertigen, Entscheidungen erklären und gleichzeitig offen für neue Ansätze sein. 
+Eine wahre Herausforderung! Was habe ich aus dieser Reise gelernt? Eine wesentliche Erkenntnisse hat sich dabei herauskristallisiert:
 Ein offensichtliches Problem ist nicht immer sofort das Kernproblem. Es stellte sich heraus, dass die erste Annahme in die falsche Richtung führte. Erst durch präzise Diskussionen und Analysen konnte das wahre Problem identifiziert werden.
 
 
@@ -46,8 +46,7 @@ Beate
 Beate steht für eine nationale Perspektive und setzt auf traditionelle 
 Hierarchien. Ihre Arbeit ist geprägt von Stabilität, Verlässlichkeit und 
 einem klaren Blick auf die gesamtstaatliche Verantwortung. Sie ist eine 
-feste Größe, die die Strukturen bewahrt – und dabei stets auf den 
-langfristigen Erfolg achtet.
+feste Größe, die die Strukturen bewahrt.
 
 ![Beate](./img/image_beate.png)
 
@@ -89,8 +88,7 @@ Sabine
 *Sacharbeiterin, Baden-Württemberg*
 
 Sabine arbeitet nah an den operativen Herausforderungen – und das spürt 
-man. Sie ist jung, flippig, aber äußerst kompetent. Ihre Energie ist 
-ansteckend, ihr Blick auf die Praxis ist direkt und unkompliziert. Sie 
+man. Ihre Energie ist ansteckend, ihr Blick auf die Praxis ist direkt und unkompliziert. Sie 
 bringt frischen Wind in die Diskussion und hält uns am Ball, wenn es um 
 die Umsetzung geht.
 
